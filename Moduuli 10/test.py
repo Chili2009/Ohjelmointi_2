@@ -1,4 +1,3 @@
-import random
 class Hissi:
     def __init__(self, alin, ylin):
         self.alin = alin
