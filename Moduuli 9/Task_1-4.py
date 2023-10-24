@@ -50,21 +50,3 @@ while not stop:
 
 for car in cars:
     print(car.print_info())
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
