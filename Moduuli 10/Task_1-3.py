@@ -35,9 +35,6 @@ class Talo:
         for i in range(0, self.hissien_Lukumäärä):
             self.aja_hissiä(1 + i, self.alin)
 
-
-
-
 #teht 1
 h = Hissi(1,10)
 h.siirry_kerrokseen(5)
